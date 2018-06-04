@@ -4,9 +4,6 @@ This is my list of development related stuff, with one line descriptions I came 
 
 I've deliberately limited it's descriptions to be only a one liner, as it's only meant to remind me what it is. It's probably horribly inaccurately described.
 
-## Good lord, why? Awesome list exists already!
-
-
 ## Contents
 
 - [General Web Development Tools](#general-web-development-tools)
