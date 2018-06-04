@@ -6,8 +6,8 @@ I've deliberately limited it's descriptions to be only a one liner, as it's only
 
 ## Contents
 
-- [General Web Development Tools](#General Web Development Tools)
-- [Music related libraries and programs](#Music related libraries and programs)
+- [General Web Development Tools](#general-web-development-tools)
+- [Music related libraries and programs](#music-related-libraries-and-programs)
 
 ## General Web Development Tools
 - [Webpack](https://webpack.js.org/) - Auto Javascript module bundler into single file for distribution.
