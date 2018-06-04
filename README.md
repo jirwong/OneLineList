@@ -18,5 +18,7 @@ I've deliberately limited it's descriptions to be only a one liner, as it's only
 - [Tone.js](https://github.com/Tonejs/Tone.js) - js library to output audio tones via simple synthesis / sampling.
 - [ScribbleTune](https://github.com/walmik/scribbletune) - js library to generate MIDI clips.
 - [Loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html) - A simple wrapper to simulate a virtual MIDI input/output to other programs / DAW.
+- [BPM Tick](https://github.com/mrkev/bpm-tick) - Easy event based BPM tick generator.
 - [Nexus Web Audio Interfaces](https://nexus-js.github.io/ui/) - UI suite for audio/music related UIs.
+- [Easy MIDI](https://nikolozi.com/apps/easymidi/) - Easy js midi input/output library to an existing MIDI input/output, use with LoopMIDI to get a virtual MIDI input / output.
 - [Musical Chord Progression Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - Really cool demo of a musical chord progression arpeggiator.
