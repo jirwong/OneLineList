@@ -27,4 +27,4 @@ I've deliberately limited it's descriptions to be only a one liner, as it's only
 - [Musical Chord Progression Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - Really cool demo of a musical chord progression arpeggiator.
 
 # Procedural Generation Libraries
-- Tracery-Grammar(https://github.com/v21/tracery) - Wrapper for Tracery, generates phrases based on Tracery as the backbone.
+- [Tracery-Grammar](https://github.com/v21/tracery) - Wrapper for Tracery, generates phrases based on Tracery as the backbone.
