@@ -23,6 +23,7 @@ I've deliberately limited it's descriptions to be only a one liner, as it's only
 - [Nexus Web Audio Interfaces](https://nexus-js.github.io/ui/) - UI suite for audio/music related UIs.
 - [Easy MIDI](https://nikolozi.com/apps/easymidi/) - Easy js midi input/output library to an existing MIDI input/output, use with LoopMIDI to get a virtual MIDI input / output.
 - [Musical Chord Progression Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - Really cool demo of a musical chord progression arpeggiator.
+- [WAAClock](https://github.com/sebpiq/WAAClock) - More accurate implementation of an audio clock that uses Web Audio.
 
 ## Procedural Generation Libraries
 - [Tracery-Grammar](https://github.com/v21/tracery) - Wrapper for Tracery, generates phrases based on Tracery as the backbone.
